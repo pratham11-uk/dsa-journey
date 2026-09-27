@@ -5,8 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/pratham11-uk/dsa-journey/tree/master/0066-plus-one) |
+| [0560-subarray-sum-equals-k](https://github.com/pratham11-uk/dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/pratham11-uk/dsa-journey/tree/master/0066-plus-one) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/pratham11-uk/dsa-journey/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/pratham11-uk/dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
