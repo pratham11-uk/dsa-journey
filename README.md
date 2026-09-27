@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/pratham11-uk/dsa-journey/tree/master/0066-plus-one) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/pratham11-uk/dsa-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/pratham11-uk/dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pratham11-uk/dsa-journey/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/pratham11-uk/dsa-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
