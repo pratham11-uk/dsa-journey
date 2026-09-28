@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pratham11-uk/dsa-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/pratham11-uk/dsa-journey/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pratham11-uk/dsa-journey/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pratham11-uk/dsa-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
@@ -41,4 +43,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pratham11-uk/dsa-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pratham11-uk/dsa-journey/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pratham11-uk/dsa-journey/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pratham11-uk/dsa-journey/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pratham11-uk/dsa-journey/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
