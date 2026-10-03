@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/pratham11-uk/dsa-journey/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/pratham11-uk/dsa-journey/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pratham11-uk/dsa-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pratham11-uk/dsa-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/pratham11-uk/dsa-journey/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/pratham11-uk/dsa-journey/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
